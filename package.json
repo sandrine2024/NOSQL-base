@@ -1,0 +1,16 @@
+{
+  "name": "no-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js ",
+    "query" : "node request.js"
+  },
+  "author": "V.K",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
